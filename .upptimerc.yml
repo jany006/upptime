@@ -11,6 +11,7 @@ sites:
     url: $GIT
   - name: Ntfy
     url: $NTFY
+    __dangerous__body_down_if_text_missing: '"healthy":true'
   - name: VAULTWARDEN
     url: $VAULTWARDEN
 
