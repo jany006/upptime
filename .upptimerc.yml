@@ -7,6 +7,12 @@ sites:
     url: https://cervenak.online
   - name: NAS
     url: $NAS
+  - name: Git
+    url: $GIT
+  - name: Ntfy
+    url: $NTFY
+  - name: VAULTWARDEN
+    url: $VAULTWARDEN
 
 
 status-website:
