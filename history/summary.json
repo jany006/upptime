@@ -24,19 +24,19 @@
     "url": "$NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "82.88%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.60%",
-    "time": 565,
-    "timeDay": 697,
-    "timeWeek": 663,
-    "timeMonth": 579,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.58%",
+    "time": 690,
+    "timeDay": 3571,
+    "timeWeek": 1386,
+    "timeMonth": 763,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-04-19": 247
+      "2024-04-19": 259
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.57%",
+    "uptimeDay": "82.13%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.57%",
     "time": 601,
     "timeDay": 728,
     "timeWeek": 702,
     "timeMonth": 613,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2024-04-19": 245
+      "2024-04-19": 257
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "83.20%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.60%",
-    "time": 469,
-    "timeDay": 575,
-    "timeWeek": 551,
-    "timeMonth": 477,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "82.35%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.58%",
+    "time": 475,
+    "timeDay": 650,
+    "timeWeek": 573,
+    "timeMonth": 484,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-04-19": 242
+      "2024-04-19": 254
     }
   }
 ]
