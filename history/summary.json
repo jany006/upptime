@@ -4,19 +4,19 @@
     "url": "https://cervenak.online",
     "icon": "https://icons.duckduckgo.com/ip3/cervenak.online.ico",
     "slug": "little-link",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.68%",
-    "time": 904,
-    "timeDay": 7333,
-    "timeWeek": 2809,
-    "timeMonth": 1126,
-    "timeYear": 904,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.66%",
+    "time": 896,
+    "timeDay": 5622,
+    "timeWeek": 2577,
+    "timeMonth": 1107,
+    "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-04-19": 195
+      "2024-04-19": 209
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.64%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.64%",
     "time": 565,
     "timeDay": 697,
     "timeWeek": 663,
     "timeMonth": 579,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-04-19": 208
+      "2024-04-19": 223
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "85.66%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.63%",
+    "uptimeDay": "84.60%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.63%",
     "time": 601,
     "timeDay": 728,
     "timeWeek": 702,
     "timeMonth": 613,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2024-04-19": 207
+      "2024-04-19": 222
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ntfy",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "86.58%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.66%",
     "time": 490,
     "timeDay": 642,
     "timeWeek": 570,
     "timeMonth": 499,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-04-19": 193
+      "2024-04-19": 209
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "85.87%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.64%",
+    "uptimeDay": "84.81%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.64%",
     "time": 469,
     "timeDay": 575,
     "timeWeek": 551,
     "timeMonth": 477,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-04-19": 203
+      "2024-04-19": 219
     }
   }
 ]
