@@ -1,7 +1,7 @@
 url: $NAS
-status: down
-code: 404
-responseTime: 405
-lastUpdated: 2024-06-27T14:27:32.241Z
+status: up
+code: 200
+responseTime: 534
+lastUpdated: 2024-06-27T15:52:07.453Z
 startTime: 2024-03-07T16:16:29.311Z
 generator: Upptime <https://github.com/upptime/upptime>
