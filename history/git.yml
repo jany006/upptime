@@ -1,7 +1,7 @@
 url: $GIT
-status: up
-code: 200
-responseTime: 471
-lastUpdated: 2024-08-09T23:11:13.182Z
+status: down
+code: 523
+responseTime: 3358
+lastUpdated: 2024-08-10T08:47:49.426Z
 startTime: 2024-03-08T12:34:50.566Z
 generator: Upptime <https://github.com/upptime/upptime>
