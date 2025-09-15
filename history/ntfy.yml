@@ -1,7 +1,7 @@
 url: $NTFY
-status: down
-code: 522
-responseTime: 19790
-lastUpdated: 2025-09-15T11:52:12.313Z
+status: up
+code: 200
+responseTime: 550
+lastUpdated: 2025-09-15T11:55:21.305Z
 startTime: 2024-03-08T12:34:51.369Z
 generator: Upptime <https://github.com/upptime/upptime>
