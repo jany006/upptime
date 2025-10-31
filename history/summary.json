@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1125,
-    "timeDay": 551,
-    "timeWeek": 672,
-    "timeMonth": 679,
-    "timeYear": 1192,
+    "timeDay": 802,
+    "timeWeek": 697,
+    "timeMonth": 683,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-09-10": 306,
       "2025-08-31": 31,
@@ -25,8 +25,7 @@
       "2025-03-21": 439,
       "2025-03-20": 753,
       "2025-02-18": 18,
-      "2025-02-08": 30,
-      "2024-10-31": 26
+      "2025-02-08": 30
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1114,
-    "timeDay": 648,
-    "timeWeek": 715,
-    "timeMonth": 747,
-    "timeYear": 1068,
+    "time": 1115,
+    "timeDay": 769,
+    "timeWeek": 706,
+    "timeMonth": 748,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2025-09-10": 305,
       "2025-08-31": 30,
@@ -54,8 +53,7 @@
       "2025-03-21": 439,
       "2025-03-20": 751,
       "2025-02-18": 18,
-      "2025-02-08": 30,
-      "2024-10-31": 24
+      "2025-02-08": 30
     }
   },
   {
@@ -70,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 1097,
-    "timeDay": 633,
-    "timeWeek": 712,
-    "timeMonth": 787,
-    "timeYear": 1040,
+    "timeDay": 833,
+    "timeWeek": 733,
+    "timeMonth": 788,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-09-10": 377,
       "2025-08-31": 29,
@@ -83,8 +81,7 @@
       "2025-03-21": 439,
       "2025-03-20": 750,
       "2025-02-18": 18,
-      "2025-02-08": 30,
-      "2024-10-31": 99
+      "2025-02-08": 30
     }
   },
   {
@@ -99,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 825,
-    "timeDay": 544,
-    "timeWeek": 646,
-    "timeMonth": 751,
-    "timeYear": 742,
+    "timeDay": 721,
+    "timeWeek": 649,
+    "timeMonth": 750,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2025-09-24": 120,
       "2025-09-10": 337,
@@ -114,8 +111,7 @@
       "2025-03-20": 748,
       "2025-02-18": 18,
       "2025-02-08": 30,
-      "2024-11-13": 26,
-      "2024-10-31": 48
+      "2024-11-13": 26
     }
   },
   {
@@ -124,16 +120,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
-    "time": 811,
-    "timeDay": 548,
-    "timeWeek": 609,
-    "timeMonth": 676,
-    "timeYear": 753,
+    "time": 812,
+    "timeDay": 702,
+    "timeWeek": 615,
+    "timeMonth": 677,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-09-10": 342,
       "2025-08-31": 27,
@@ -143,8 +139,7 @@
       "2025-03-21": 439,
       "2025-03-20": 747,
       "2025-02-18": 18,
-      "2025-02-08": 30,
-      "2024-10-31": 20
+      "2025-02-08": 30
     }
   }
 ]
