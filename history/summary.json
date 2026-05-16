@@ -6,15 +6,15 @@
     "slug": "little-link",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "92.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "98.99%",
-    "time": 1067,
-    "timeDay": 1624,
-    "timeWeek": 942,
-    "timeMonth": 756,
-    "timeYear": 1325,
+    "uptimeYear": "99.10%",
+    "time": 1169,
+    "timeDay": 638,
+    "timeWeek": 953,
+    "timeMonth": 758,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2026-05-14": 106,
       "2026-03-16": 638,
@@ -25,8 +25,7 @@
       "2025-09-10": 306,
       "2025-08-31": 31,
       "2025-08-11": 45,
-      "2025-07-15": 22,
-      "2025-05-16": 265
+      "2025-07-15": 22
     }
   },
   {
@@ -36,15 +35,15 @@
     "slug": "nas",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "92.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "90.76%",
-    "uptimeYear": "98.20%",
-    "time": 1058,
-    "timeDay": 1465,
-    "timeWeek": 952,
-    "timeMonth": 970,
-    "timeYear": 1127,
+    "uptimeYear": "98.31%",
+    "time": 1059,
+    "timeDay": 643,
+    "timeWeek": 956,
+    "timeMonth": 969,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2026-05-14": 106,
       "2026-04-26": 1040,
@@ -58,8 +57,7 @@
       "2025-11-18": 145,
       "2025-09-10": 305,
       "2025-08-31": 30,
-      "2025-08-11": 44,
-      "2025-05-16": 265
+      "2025-08-11": 44
     }
   },
   {
@@ -69,15 +67,15 @@
     "slug": "git",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "85.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.91%",
     "uptimeMonth": "89.94%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.18%",
     "time": 983,
-    "timeDay": 1342,
-    "timeWeek": 928,
-    "timeMonth": 888,
-    "timeYear": 1094,
+    "timeDay": 581,
+    "timeWeek": 918,
+    "timeMonth": 885,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2026-05-14": 211,
       "2026-04-26": 1260,
@@ -94,8 +92,7 @@
       "2025-11-18": 163,
       "2025-09-10": 377,
       "2025-08-31": 29,
-      "2025-08-11": 43,
-      "2025-05-16": 265
+      "2025-08-11": 43
     }
   },
   {
@@ -105,15 +102,15 @@
     "slug": "ntfy",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "92.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "99.07%",
     "time": 723,
-    "timeDay": 1219,
-    "timeWeek": 809,
-    "timeMonth": 713,
-    "timeYear": 776,
+    "timeDay": 561,
+    "timeWeek": 811,
+    "timeMonth": 712,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2026-05-14": 106,
       "2026-03-16": 689,
@@ -125,8 +122,7 @@
       "2025-09-24": 120,
       "2025-09-10": 337,
       "2025-08-31": 27,
-      "2025-08-11": 42,
-      "2025-05-16": 265
+      "2025-08-11": 42
     }
   },
   {
@@ -136,15 +132,15 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "92.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "90.26%",
-    "uptimeYear": "98.13%",
-    "time": 802,
-    "timeDay": 1652,
-    "timeWeek": 1032,
-    "timeMonth": 1006,
-    "timeYear": 882,
+    "uptimeYear": "98.24%",
+    "time": 803,
+    "timeDay": 643,
+    "timeWeek": 1035,
+    "timeMonth": 1005,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2026-05-14": 105,
       "2026-04-26": 1260,
@@ -160,8 +156,7 @@
       "2025-11-18": 145,
       "2025-09-10": 342,
       "2025-08-31": 27,
-      "2025-08-11": 41,
-      "2025-05-16": 265
+      "2025-08-11": 41
     }
   }
 ]
