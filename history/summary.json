@@ -4,17 +4,17 @@
     "url": "https://cervenak.online",
     "icon": "https://icons.duckduckgo.com/ip3/cervenak.online.ico",
     "slug": "little-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.19%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.03%",
-    "time": 1214,
-    "timeDay": 504,
-    "timeWeek": 2661,
-    "timeMonth": 1133,
-    "timeYear": 1244,
+    "time": 1219,
+    "timeDay": 1840,
+    "timeWeek": 2713,
+    "timeMonth": 1193,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-08-31": 31,
       "2025-09-10": 306,
@@ -24,7 +24,8 @@
       "2026-03-14": 1440,
       "2026-03-13": 534,
       "2026-05-14": 106,
-      "2026-08-21": 485
+      "2026-08-21": 485,
+      "2026-08-24": 5
     }
   },
   {
@@ -32,17 +33,17 @@
     "url": "$NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.24%",
-    "time": 1067,
-    "timeDay": 606,
-    "timeWeek": 2761,
-    "timeMonth": 1228,
-    "timeYear": 1140,
+    "time": 1105,
+    "timeDay": 10147,
+    "timeWeek": 4453,
+    "timeMonth": 1771,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2025-08-31": 30,
       "2025-09-10": 305,
@@ -56,7 +57,8 @@
       "2026-04-24": 1440,
       "2026-04-23": 19,
       "2026-05-14": 106,
-      "2026-08-21": 484
+      "2026-08-21": 484,
+      "2026-08-24": 3
     }
   },
   {
@@ -64,17 +66,17 @@
     "url": "$GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "97.12%",
-    "time": 982,
-    "timeDay": 614,
-    "timeWeek": 2786,
-    "timeMonth": 1259,
-    "timeYear": 1100,
+    "time": 1015,
+    "timeDay": 10218,
+    "timeWeek": 4489,
+    "timeMonth": 1805,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-08-31": 29,
       "2025-09-10": 377,
@@ -95,7 +97,8 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1350,
-      "2026-08-21": 483
+      "2026-08-21": 483,
+      "2026-08-24": 3
     }
   },
   {
@@ -103,17 +106,17 @@
     "url": "$NTFY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ntfy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.22%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "95.21%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.00%",
-    "time": 752,
-    "timeDay": 602,
-    "timeWeek": 927,
-    "timeMonth": 752,
-    "timeYear": 805,
+    "time": 791,
+    "timeDay": 10136,
+    "timeWeek": 2801,
+    "timeMonth": 1309,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-08-31": 27,
       "2025-09-10": 337,
@@ -125,7 +128,8 @@
       "2026-03-14": 1440,
       "2026-03-13": 534,
       "2026-05-14": 106,
-      "2026-08-21": 482
+      "2026-08-21": 482,
+      "2026-08-24": 1
     }
   },
   {
@@ -133,17 +137,17 @@
     "url": "$VAULTWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "97.18%",
-    "time": 888,
-    "timeDay": 601,
-    "timeWeek": 2798,
-    "timeMonth": 1275,
-    "timeYear": 933,
+    "time": 926,
+    "timeDay": 9977,
+    "timeWeek": 4453,
+    "timeMonth": 1807,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2025-08-31": 27,
       "2025-09-10": 342,
@@ -163,7 +167,8 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1350,
-      "2026-08-21": 481
+      "2026-08-21": 481,
+      "2026-08-24": 0
     }
   }
 ]
