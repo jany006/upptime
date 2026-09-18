@@ -4,17 +4,17 @@
     "url": "https://cervenak.online",
     "icon": "https://icons.duckduckgo.com/ip3/cervenak.online.ico",
     "slug": "little-link",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "99.06%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "85.39%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.02%",
     "time": 1219,
-    "timeDay": 648,
-    "timeWeek": 566,
-    "timeMonth": 1142,
-    "timeYear": 814,
+    "timeDay": 797,
+    "timeWeek": 613,
+    "timeMonth": 1137,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2026-03-16": 638,
@@ -24,7 +24,7 @@
       "2026-05-14": 106,
       "2026-08-21": 485,
       "2026-08-24": 187,
-      "2026-09-18": 3
+      "2026-09-18": 210
     }
   },
   {
@@ -42,7 +42,7 @@
     "timeDay": 698,
     "timeWeek": 637,
     "timeMonth": 1722,
-    "timeYear": 899,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2026-03-16": 828,
